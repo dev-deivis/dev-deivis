@@ -1,86 +1,67 @@
-<div align="center">
-
 ```ascii
 DEV-DEIVIS / ACTIVE_ON
 ```
 
-# `DAVID ALMARAZ`
+<h1 align="center">DAVID ALMARAZ</h1>
 
-```typescript
-< Full Stack Developer | Computational Systems Engineering />
-```
+<p align="center">
+  <code>< Full Stack Developer | Computational Systems Engineering /></code>
+</p>
 
-<img src="https://img.shields.io/badge/Session_status-🟢_ACTIVE-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Lines-862-blue?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Session_status-🟢_ACTIVE-00ff00?style=flat-square&labelColor=0d1117&color=00ff00" />
+  <img src="https://img.shields.io/badge/Lines-862-1e90ff?style=flat-square&labelColor=0d1117" />
+</p>
 
----
-
-## `</> TECH_STACK.INIT()`
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br><sub>Python</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-<br><sub>Java</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br><sub>TypeScript</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br><sub>React</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br><sub>Node.js</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-<br><sub>PostgreSQL</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br><sub>MongoDB</sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br><sub>Git</sub>
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## `⚡ FETCH_GITHUB_METRICS()`
+<h2 align="center"><code>📦 TECH_STACK.INIT()</code></h2>
 
-<table>
-<tr>
-<td align="center">
-<h2>241</h2>
-<sub>TOTAL COMMITS</sub>
-<br><sub>(PAST YEAR)</sub>
-</td>
-<td align="center">
-<h2>⭕</h2>
-<sub>2</sub>
-<br><sub>CURRENT STREAK</sub>
-</td>
-<td align="center">
-<h2>13</h2>
-<sub>LONGEST STREAK</sub>
-<br><sub>(DAY SEQUENCE)</sub>
-</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,react,nodejs,postgres,mongodb,docker,git,linux&perline=5" />
+</p>
+
+<br>
+
+---
+
+<h2 align="center"><code>⚡ FETCH_GITHUB_METRICS()</code></h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
+      <br><br>
+      <h2>241</h2>
+      <sub>TOTAL COMMITS</sub>
+      <br><sub>(PAST YEAR)</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="40"/>
+      <br><br>
+      <h2>2</h2>
+      <sub>CURRENT STREAK</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="40"/>
+      <br><br>
+      <h2>13</h2>
+      <sub>LONGEST STREAK</sub>
+      <br><sub>(DAY SEQUENCE)</sub>
+    </td>
+  </tr>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-deivis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-deivis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_title=true" />
+</p>
+
+<br>
+
 
 ---
 
