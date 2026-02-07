@@ -62,27 +62,30 @@ DEV-DEIVIS / ACTIVE_ON
 
 <br>
 
+---
+
+<h2 align="center"><code>🔗 CONNECT_WITH_ME()</code></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-almaraz-b562a234a">
+    <img src="https://img.shields.io/badge/01_▸_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.instagram.com/_eldeivis">
+    <img src="https://img.shields.io/badge/02_▸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.facebook.com/share/175um6pomr/">
+    <img src="https://img.shields.io/badge/03_▸_FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<br>
 
 ---
 
-## `🔗 CONNECT_WITH_ME()`
-
-<a href="https://www.linkedin.com/in/david-almaraz-b562a234a">
-<img src="https://img.shields.io/badge/01_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_eldeivis">
-<img src="https://img.shields.io/badge/02_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/share/175um6pomr/">
-<img src="https://img.shields.io/badge/03_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
----
-
-<sub>DESIGNED FOR HIGH-PERFORMANCE TERMINAL EXPERIENCE</sub>
+<p align="center">
+  <sub>DESIGNED FOR HIGH-PERFORMANCE TERMINAL EXPERIENCE</sub>
+</p>
 
 ```python
 System.version: 99.999
 ```
-
-</div>
