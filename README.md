@@ -4,7 +4,7 @@
 
 ### `< Full Stack Developer | Computational Systems Engineering />`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=true)
+![Status](https://img.shields.io/badge/Session-ACTIVE-brightgreen?style=for-the-badge)
 ![Lines](https://img.shields.io/badge/Lines-862-blue?style=for-the-badge)
 
 ---
@@ -31,7 +31,7 @@
 ## ⚡ FETCH_GITHUB_METRICS()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
