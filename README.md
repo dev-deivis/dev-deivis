@@ -1,6 +1,8 @@
 <div align="center">
 
-# `DAVID ALMARAZ`
+
+<code>DAVID ALMARAZ</code>
+
 
 ```typescript
 < Full Stack Developer | Computational Systems Engineering />
