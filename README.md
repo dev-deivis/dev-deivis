@@ -4,7 +4,7 @@
 
 ### `< Full Stack Developer | Computational Systems Engineering />`
 
-![Status](https://img.shields.io/badge/Session-ACTIVE-brightgreen?style=for-the-badge)
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=true)
 ![Lines](https://img.shields.io/badge/Lines-862-blue?style=for-the-badge)
 
 ---
