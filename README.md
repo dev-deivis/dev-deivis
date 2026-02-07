@@ -13,7 +13,7 @@
 
 ### Lenguajes & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,android,flutter" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,androidstudio,flutter" />
 </p>
 
 ### Backend & DB
