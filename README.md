@@ -4,8 +4,15 @@
 
 ### `< Full Stack Developer | Computational Systems Engineering />`
 
+**Computer Systems Engineering Student**  
+💻 Clean code. Clear logic. Scalable solutions.  
+🧠 Turning problems into efficient software systems  
+🚀 Learning, building and shipping better code every day
+
 ![Status](https://img.shields.io/badge/Session-ACTIVE-brightgreen?style=for-the-badge)
 ![Lines](https://img.shields.io/badge/Lines-862-blue?style=for-the-badge)
+
+</div>
 
 ---
 
