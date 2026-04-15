@@ -1,7 +1,7 @@
 <div align="center">
 
 # DAVID ALMARAZ
-### `< Full Stack Developer | Computational Systems Engineering />`
+### `< Full Stack Web Developer | Computational Systems Engineering />`
 **Computer Systems Engineering Student**  
 💻 Clean code. Clear logic. Scalable solutions.  
 🧠 Turning problems into efficient software systems  
