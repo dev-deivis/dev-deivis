@@ -18,7 +18,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,php" />
 </p>
 
 ### Frameworks & Technologies
