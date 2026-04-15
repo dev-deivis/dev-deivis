@@ -1,9 +1,7 @@
 <div align="center">
 
 # DAVID ALMARAZ
-
 ### `< Full Stack Developer | Computational Systems Engineering />`
-
 **Computer Systems Engineering Student**  
 💻 Clean code. Clear logic. Scalable solutions.  
 🧠 Turning problems into efficient software systems  
@@ -18,19 +16,19 @@
 
 ## 📦 TECH_STACK.INIT()
 
-### Lenguajes & Frameworks
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,androidstudio,flutter" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
 </p>
 
-### Backend & DB
+### Frameworks & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,java,python,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel" />
 </p>
 
-### Frontend & Tools
+### Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
 </p>
 
 ---
@@ -40,11 +38,9 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deivis&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deivis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
@@ -68,5 +64,3 @@
 ---
 
 🖤 *Built like a terminal. Powered by coffee & commits.*
-
-</div>
