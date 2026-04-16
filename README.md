@@ -18,12 +18,12 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css,dart" />
 </p>
 
 ### Frameworks & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter" />
 </p>
 
 ### Databases & Tools
