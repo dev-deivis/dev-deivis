@@ -50,7 +50,7 @@
 ## 🔗 CONNECT_WITH_ME()
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-almaraz-b562a234a">
+  <a href="https://www.linkedin.com/in/david-almaraz-b562a234a](https://www.linkedin.com/in/alonso-david-almaraz-v%C3%A1squez-87056334b/">
     <img src="https://img.shields.io/badge/01_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_eldeivis">
