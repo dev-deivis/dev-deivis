@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/alonso-david-almaraz-v%C3%A1squez-87056334b/">
     <img src="https://img.shields.io/badge/01_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_eldeivis">
+  <a href="https://www.instagram.com/_devdeivis">
     <img src="https://img.shields.io/badge/02_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/share/175um6pomr/">
