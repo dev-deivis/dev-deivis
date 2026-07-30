@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-deivis&theme=tokyonight&hide_border=true&cache_bust=1" />
+  <img src="https://streak-stats.demolab.com/?user=dev-deivis&theme=tokyonight&hide_border=true&v=1" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deivis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
