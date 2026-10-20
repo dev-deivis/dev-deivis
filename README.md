@@ -36,13 +36,13 @@
 ## ⚡ FETCH_GITHUB_METRICS()
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-deivis&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="./profile/streak.svg" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deivis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-deivis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
